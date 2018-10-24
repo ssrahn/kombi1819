@@ -36,6 +36,7 @@ public class Solution extends GenericSolution<Integer> {
 	@Override
 	public boolean isFeasible() {
 		// TODO: implement this method (and you may then use it in your Solvers)
+		return true;
 	}
 
 	/**
